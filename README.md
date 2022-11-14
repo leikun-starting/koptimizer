@@ -13,8 +13,7 @@ I aim to develop my skills and perspectives between engineering and business.
 </a>
 <a href="https://github.com/koptimizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koptimizer&langs_count=3" />
-</a>
-![](https://github.com/koptimizer/koptimizer/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
